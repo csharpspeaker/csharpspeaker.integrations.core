@@ -1,0 +1,1 @@
+# csharpspeaker.integrations.core
